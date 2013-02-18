@@ -19,7 +19,7 @@ Enigmail presenta un agradable asistente que le ayudará a crear su par de clave
 
  ![GPG Keys](gpg_keys_4.png)
 
- 5. En la siguiente pantalla, seleccione una de las cuentas de correo, por defecto se selecciona para usted si usted sólo tiene uno. En la 'Contraseña' cuadro de texto que debe introducir una contraseña. Se trata de un nuevo archivo * contraseña * que se utiliza para proteger su clave privada. Se ** ** muy importantes para recordar esta contraseña, ya que no puede leer sus mensajes de correo electrónico cifrados propios en caso de olvido. Que sea una contraseña fuerte ** **, lo ideal es 20 caracteres o más. Por favor, vea el capítulo sobre las contraseñas de ayuda sobre la creación única, larga y fácil de recordar contraseñas. Una vez que haya seleccionado su cuenta y ha creado una contraseña, haga clic en el botón "Siguiente".
+ 5. En la siguiente pantalla, seleccione una de las cuentas de correo. En el cuadro de texto 'Contraseña' debe introducir una. Se trata de un nuevo archivo *contraseña* que se utiliza para proteger su clave privada. Es **muy importante** recordar esta contraseña, ya que no puede leer sus mensajes de correo electrónico cifrados propios en caso de olvido. Debe ser una contraseña **fuerte**, lo ideal es 20 caracteres o más. Por favor, vea el capítulo sobre las contraseñas para obtener ayuda sobre la creación de contraseñas únicas, largas y fácil de recordar. Una vez seleccionada una su cuenta creada una contraseña, haga click en el botón "Siguiente".
 
  ! [GPG Keys] (gpg_keys_5.png)
 
@@ -31,7 +31,7 @@ Enigmail presenta un agradable asistente que le ayudará a crear su par de clave
 
  ! [GPG Keys] (gpg_keys_7.png)
 
- 8. Ahora tiene su propia clave PGP-pair. El asistente le preguntará si también desea crear un "certificado de revocación. Este es un archivo que se puede utilizar para informar a todo el mundo si la clave privada está en peligro, por ejemplo, si su portátil es robado. Piense en ello como un "kill switch" para su identidad PGP. Usted también puede desear revocar la clave, simplemente porque usted ha generado una nueva, y el viejo es obsoleto.
+ 8. Ahora tiene su propio par de claves PGP. El asistente le preguntará si también desea crear un "certificado de revocación. Este es un archivo que se puede utilizar para informar a todo el mundo si la clave privada está en peligro, por ejemplo, si su portátil es robado. Piense en ello como un "kill switch" para su identidad PGP. Usted también puede desear revocar la clave, simplemente porque usted ha generado una nueva, y el viejo es obsoleto.
 
  ! [GPG Keys] (gpg_keys_8.png)
 
@@ -79,4 +79,4 @@ Felicitaciones, ahora tiene un cliente de correo electrónico de PGP totalmente 
 
  ![GPG Keys](gpg_keys_11.png)
 
-Felicitaciones, ya tiene su cliente de correos PGP totalmente configurado. En el próximo capítulo explicaremos cómo firmar mensajes y cómo cifrarlos. Thunderbird puede ayudarle con muchas de estas tareas automáticamenete.
+Felicitaciones, ya tiene su cliente de correos PGP totalmente configurado. En el próximo capítulo explicaremos cómo firmar mensajes y cómo cifrarlos. Thunderbird puede ayudarle con muchas de estas tareas automáticamente.

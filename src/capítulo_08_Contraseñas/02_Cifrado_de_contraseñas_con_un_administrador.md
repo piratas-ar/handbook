@@ -14,7 +14,7 @@ Se le pedirá que establezca una clave principal (clave).
 
 ![Password Manager](mng_1.png)
 
-Elija una contraseña fuerte para este campo - consulte el capítulo acerca de contraseñas si desea algunos consejos sobre cómo hacer esto. Ibgrese la contraseña y presione 'OK'. Se le pedirá que lo ingrese nuevamente. Hecho esto, presione 'OK'. Si las contraseñas son iguales verá una nueva 'base de datos' KeePassX lista para usar.
+Elija una contraseña fuerte para este campo - consulte el capítulo acerca de contraseñas si desea algunos consejos sobre cómo hacer esto. Ingrese la contraseña y presione 'OK'. Se le pedirá que lo ingrese nuevamente. Hecho esto, presione 'OK'. Si las contraseñas son iguales verá una nueva 'base de datos' KeePassX lista para usar.
 
 ![Password Manager](mng_2.png)
 
@@ -87,7 +87,7 @@ Cuando lo abra, verá que su 'Login' de keychain está desbloqueado y verá todo
 
 ![Password Manager](mng_15.png)
 
-Puede hacer doble click en cualquiera de los elementos en Keychaino para poder ver los detalles y marque la casilla 'Show password:' para ver la contraseña asociada con el elemento.
+Puede hacer doble click en cualquiera de los elementos en Keychain para poder ver los detalles y marque la casilla 'Show password:' para ver la contraseña asociada con el elemento.
 
 ![Password Manager](mng_16.png)
 

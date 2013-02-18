@@ -31,9 +31,9 @@ Como siempre, si conoce los riesgos y se siente preocupado es sabio escuchar est
 Empleador/Organización
 ----------------------
 
-Su empleador o la organización que esté involucrada está en excelente posición para aprovecharse de su confianza y leer los mensajes de su cuenta de correo electrónico laboral que se almacenan en el servidor, tal vez en un esfuerzo por aprender acerca de usted, de sus motivaciones, agendas e intereses. Estos casos de espionaje del empleador hacia el empleado son tan comunes que no merecen atención. La única solución es el cifrado del correo electrónicousando, por ejemplo, GPG (consulte el Apéndice **GPG**).
+Su empleador o la organización que esté involucrada está en excelente posición para aprovecharse de su confianza y leer los mensajes de su cuenta de correo electrónico laboral que se almacenan en el servidor, tal vez en un esfuerzo por aprender acerca de usted, de sus motivaciones, agendas e intereses. Estos casos de espionaje del empleador hacia el empleado son tan comunes que no merecen atención. La única solución es el cifrado del correo electrónico usando, por ejemplo, GPG (consulte el Apéndice **GPG**).
 
-Servidor de correo autoadministrado
+Servidor de correo auto administrado
 -----------------------------------
 
 Esta es la configuración ideal de almacenamiento, pero requiere un alto grado de conocimientos técnicos. Aquí, en general, los riesgos a la privacidad no son sólo proteger su propia cuenta contra intentos de exploits (contraseñas débiles, sin SSL) sino que conlleva una gran responsabilidad, y tal vez sucumba a la tentación de leer los correos electrónicos de aquellas personas a las cuales les presta servicio.

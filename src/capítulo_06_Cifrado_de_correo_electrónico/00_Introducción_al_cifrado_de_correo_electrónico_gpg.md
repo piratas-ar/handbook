@@ -12,7 +12,7 @@ Los siguientes capítulos le proporcionarán una guía práctica para instalar l
 Uso de un par de claves para cifrar su correo electrónico
 ---------------------------------------------------------
 
-Un concepto crucial en el cifrado es el llamado *pares de claves*. Un par de claves son dos archivos separados almacenados en su disco rígido o memoria USB. Siempre que pretenda cifrar mensajes de una cierta cuentaa de correo, necesitará disponer de estos archivos de alguna manera. Si los almacena en su computadora, no podrá descifrar mensajes en su trabajo. Una solución posible sería llevarlo en una memoria USB.
+Un concepto crucial en el cifrado es el llamado *pares de claves*. Un par de claves son dos archivos separados almacenados en su disco rígido o memoria USB. Siempre que pretenda cifrar mensajes de una cierta cuenta de correo, necesitará disponer de estos archivos de alguna manera. Si los almacena en su computadora, no podrá descifrar mensajes en su trabajo. Una solución posible sería llevarlo en una memoria USB.
 
 Un par de claves consiste de dos claves diferentes: una clave pública y una secreta.
 
@@ -31,7 +31,7 @@ Recepción de mensajes de correo electrónico de otras personas: ellos necesitan
 
 Para que sus compañeros puedan enviarle a *usted* mensajes cifrados, debe distribuir su clave pública a cada uno de ellos.
 
-Conclusión: el cifrado de ensajes requiere la distribución de las claves públicas
+Conclusión: el cifrado de mensajes requiere la distribución de las claves públicas
 ---------------------------------------------------------------------------------
 
 Todas las personas de una red de amigos o colegas que esperan enviarse unos a otros mensajes cifrados, necesitan distribuir sus claves públicas unos a otros, mientras mantienen sus claves secretas guardadas en un lugar seguro. El software descripto en este capítulo lo ayudará a administrar sus claves.

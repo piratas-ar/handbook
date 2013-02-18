@@ -48,7 +48,7 @@ Internet es un enorme lugar y no es una única red, sino que es una gran red for
 
 Cada una de las máquinas a través del encaminamiento en la red pertenece a alguien, normalmente una empresa u organización y puede estar en diferentes países. Si bien se están realizando esfuerzos para estandarizar las leyes de comunicación entre los países, existe en la actualidad uno amplia variedad según la jurisdicción. Así, mientras que puede que no haya una ley que exige el registro de su navegación por la web en su país, tales leyes pueden existir en otro lugar a lo largo de la ruta de su paquete.
 
-La única forma de proteger el tráfico a lo largo de la ruta de que sea grabado o manipulado es utilizar encriptación de extremo a extremo como el proporcionado por TLS/Secure Socket Layer (Vea el capítulo **Cifrado**) o una red privada virtual (Vea el capítulo **VPN**).
+La única forma de proteger el tráfico a lo largo de la ruta de que sea grabado o manipulado es utilizar cifrado de extremo a extremo como el proporcionado por TLS/Secure Socket Layer (Vea el capítulo **Cifrado**) o una red privada virtual (Vea el capítulo **VPN**).
 
 Su derecho a permanecer en el anonimato
 ---------------------------------------

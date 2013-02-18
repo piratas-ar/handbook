@@ -49,11 +49,11 @@ Como hacer una CryptoParty
 
  * Copia a otras cryptoparties. Mezcla, reutiliza y comparte. Crea una bolsa de dispositivos antiguos para que la gente los pueda donar a los asistentes a las CryptoParties que más lo necesiten. 
 
- * ¡Sal a la calle! Imprime carteles y/o folletos y distribúyelos eetre tus vecinos, postea versiones online en las redes sociales y envía correos electrónicos a tus amigos, para que ellos puedan resdistribuirlos.
+ * ¡Sal a la calle! Imprime carteles y/o folletos y distribúyelos entre tus vecinos, postea versiones online en las redes sociales y envía correos electrónicos a tus amigos, para que ellos puedan redistribuirlos.
 
  * No busques patrocinadores para conseguir dinero para pizzas y cerveza. Pídele a la gente que lleve algo de comida y bebida para compartir. Se anfitrión de CryptoPicnics tan a menudo como sea posible. Haz amistades con bibliotecarios. Ellos pueden proporcionar salas de encuentro públicas y locales gratis para poder utilizar.
 
- * Invita a todos. Reúne gente que tenga una amplia varieda de habilidades e intereses - músicos, comentaristas políticos, activistas, hackers, programadores, periodistas, artistas y filósofos. Difunde tu pasión.
+ * Invita a todos. Reúne gente que tenga una amplia variedad de habilidades e intereses - músicos, comentaristas políticos, activistas, hackers, programadores, periodistas, artistas y filósofos. Difunde tu pasión.
 
  * Invita a diseñadores gráficos e ilustradores que conozcas para que contribuyan con nuevas formas de ayuda para que la gente comprenda qué es la criptografía.
 
@@ -77,7 +77,7 @@ Como hacer una CryptoParty
 
  * Esparce sigilosamente la CryptoParty a través de tu ciudad en salidas nocturnas a las 3 de la mañana. Haz una gran cantidad de stickers, pégalos por todas partes.
 
- * Experimenta constantemente. No le temas a los errores. Anima a las personas a experimentar. Asume que te equivocas porque haces algo. La mayoría de las personas vigildas por las agencias de inteligencia poseen dispositivos electrónicos que ya han sido "pinchados" antes de entrar por la puerta. Enséñale a la gente a instalar herramientas desde cero, para que ellos puedan hacerlo en máquinas nuevas, a salvo de miradas indiscretas.
+ * Experimenta constantemente. No le temas a los errores. Anima a las personas a experimentar. Asume que te equivocas porque haces algo. La mayoría de las personas vigiladas por las agencias de inteligencia poseen dispositivos electrónicos que ya han sido "pinchados" antes de entrar por la puerta. Enséñale a la gente a instalar herramientas desde cero, para que ellos puedan hacerlo en máquinas nuevas, a salvo de miradas indiscretas.
 
  * Asuma que las agencias de inteligencia enviarán espías a las CryptoParties. Reconozca su presencia al comienzo de su reunión, pídales que compartan sus habilidades criptográficas. Las bromas sobre paranoia a menudo son posibles sin infundir pánico. Póngase sombreros de papel aluminio.
 

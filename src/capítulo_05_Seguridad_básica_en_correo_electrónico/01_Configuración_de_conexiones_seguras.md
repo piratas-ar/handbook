@@ -5,7 +5,7 @@ Existe una manera correcta (segura) de configurar su conexión con los servidore
 
 Siempre que sea posible, debería conectarse usando los protocolos **SSL** (Secure Socket Layer) y **TLS** (Transport Layer Security). (**STARTTLS**, otra versión disponible cuando configura una cuenta, es una variación de SSL/TLS.) Estos protocolos impiden que su propio sistema (más allá de Thunderbird) y todos los puntos entre sus sistema y el servidor de correo puedan ser interceptados y robadas sus contraseñas.Además, también impiden que los la lectura del contenido de sus mensajes.
 
-Estos protocolos, sin embargo, sólo aseguran la conexión entre el ordenador y el servidor de correo. No protegen el canal de información ntodo el camino hasta el destinatario del mensaje. Una vez que los servidores de correo reenvian el mensaje para la entrega, el mensaje puede ser interceptado y leído por los puntos intermedios entre el servidor de correo y el destinatario.
+Estos protocolos, sin embargo, sólo aseguran la conexión entre el ordenador y el servidor de correo. No protegen el canal de información en todo el camino hasta el destinatario del mensaje. Una vez que los servidores de correo reenvían el mensaje para la entrega, el mensaje puede ser interceptado y leído por los puntos intermedios entre el servidor de correo y el destinatario.
 
 Aquí es donde **PGP** (Pretty Good Privacy) entra, lo cual se describe en el capítulo siguiente.
 
@@ -66,9 +66,9 @@ Una vez más, hemos seleccionado **SSL/TLS** en **Connection security**. El puer
 Finalizando la configuración, diferentes métodos de cifrado
 -----------------------------------------------------------
 
-Pruebe la configuración de Thunderbird intentando enviar y recibir mensajes. Algunos proveedores de almacenamiento de correo electrónico no soportan el protocolo SSL/TLS, la opción favorita. Debería aparecer un mensaje de error diciendo que el protocolo de autenticación no está soportado por el servidor. Entonces, pruebe a utilizar STARTTLS. En elas dos pantallas de más abajo, seleccione 'STARTTLS' en "Connection security'. Si este método también falla, póngase en contacto con su proveedor de almacenamiento de correo electrónico y pregúntele ellos ofrecen otra manera de conectarse de forma segura a sus servidores. Si no le permiten hacerlo entonces usted debe quejarse y considerar seriamente la posibilidad de cambiar a un proveedor diferente.
+Pruebe la configuración de Thunderbird intentando enviar y recibir mensajes. Algunos proveedores de almacenamiento de correo electrónico no soportan el protocolo SSL/TLS, la opción favorita. Debería aparecer un mensaje de error diciendo que el protocolo de autenticación no está soportado por el servidor. Entonces, pruebe a utilizar STARTTLS. En las dos pantallas de más abajo, seleccione 'STARTTLS' en "Connection security'. Si este método también falla, póngase en contacto con su proveedor de almacenamiento de correo electrónico y pregúntele ellos ofrecen otra manera de conectarse de forma segura a sus servidores. Si no le permiten hacerlo entonces usted debe quejarse y considerar seriamente la posibilidad de cambiar a un proveedor diferente.
 
 De regreso a las pantallas de configuración 
 -------------------------------------------
 
-En cualquier momento usted puede reconfigurar sus cuentas de correo yendo a la barra de menú de Thunderbird menu bar y pulsando **Edit | Account Settings** (GNU/Linux), **Tools | Account Settings** (Windows y Mac OS X).
+En cualquier momento usted puede reconfigurar sus cuentas de correo yendo a la barra de menú de Thunderbird y pulsando **Edit | Account Settings** (GNU/Linux), **Tools | Account Settings** (Windows y Mac OS X).

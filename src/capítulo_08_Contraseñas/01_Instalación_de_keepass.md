@@ -8,7 +8,7 @@ Mac OS X viene con un excelente archivo administrador integrado de contraseña l
 Instalación de KeePassX en Ubuntu
 ---------------------------------
 
-Para instalarlo en Ubuntu vamos a utilizar el Ubuntu Software Center. Escriba KeePass en el campo de búsqueda en la parte superior derecha y la aplicaciṕn KeePassX deberá aparecer automáticamente en el listado.
+Para instalarlo en Ubuntu vamos a utilizar el Ubuntu Software Center. Escriba KeePass en el campo de búsqueda en la parte superior derecha y la aplicación KeePassX deberá aparecer automáticamente en el listado.
 
 Resalte el elemento (que puede estar ya resaltado por defecto) y pulse en "Instalar". Se le pedirá autorización para el proceso de instalación:
 

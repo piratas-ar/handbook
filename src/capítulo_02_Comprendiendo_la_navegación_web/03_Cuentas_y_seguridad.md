@@ -1,7 +1,7 @@
 Cuentas y seguridad
 ===================
 
-Cuando navega por Internet, puede estar conectado con varios servicios, a veces en foma simultánea. Puede estar en el sitio web de una empresa, viendo su correo eletrónico o en una red social. Nuestras cuentas son importantes porque almacenan información altamente sensible acerca de nosotros y de otras personas en máquinas a lo largo de toda Internet.
+Cuando navega por Internet, puede estar conectado con varios servicios, a veces en foma simultánea. Puede estar en el sitio web de una empresa, viendo su correo electrónico o en una red social. Nuestras cuentas son importantes porque almacenan información altamente sensible acerca de nosotros y de otras personas en máquinas a lo largo de toda Internet.
 
 Mantener sus cuentas seguras requiere algo más que una contraseña segura (véase la sección **Contraseñas**) y un vínculo de comunicación segura con el servidor a través de TLS/SSL (véase el capítulo **Conexión segura**). A menos que se especifique lo contrario, la mayoría de los navegadores almacenan sus datos de acceso en pequeños archivos llamados cookies, reduciendo la necesidad de volver a escribir la contraseña cuando vuelva a conectarse a estos sitios. Esto significa que alguien con acceso a su computadora o teléfono celular puede acceder a sus cuentas sin tener que robar la contraseña o hacer espionaje sofisticado.
 

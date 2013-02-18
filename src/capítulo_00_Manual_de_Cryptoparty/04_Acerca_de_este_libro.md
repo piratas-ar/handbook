@@ -48,7 +48,7 @@ Asistentes:
 
 Imagen de portada por Emile Denichaud.
 
-Otros manuales incluídos: 
+Otros manuales incluidos: 
 
  * [en.flossmanuals.net/bypassing-es/](en.flossmanuals.net/bypassing-es/)
 

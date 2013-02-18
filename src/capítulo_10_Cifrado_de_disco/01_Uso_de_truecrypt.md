@@ -42,7 +42,7 @@ Elija dónde crear el volumen TrueCrypt. Puede ser dentro de un archivo, que ser
  
  Nosotros crearemos nuestro volumen TrueCrypt dentro de la carpeta 'adam/true' y el nombre del archivo del volumen (contenedor) será 'myencryptedfile'. Usted puede, por supuesto, elegir cualquier otro archivo y cualquier otro soporte (por ejemplo, un pendrive). Observe que el archivo 'myencryptedfile' aún no existe - TrueCrypt lo creará. Presione 'Save' cuando esté listo. La ventana de selección de archivo se cerrará.
 
- **IMPORTANTE:** Note que TrueCrypt no cifrará ningún archivo existente. Si selecciona un archivo existente en este paso, será sobreescrito y reemplazado por el volumen creado (los datos se perderán). Podrá cifrar archivos existentes más tarde o moviéndolos al volumen TrueCrypt volume.
+ **IMPORTANTE:** Note que TrueCrypt no cifrará ningún archivo existente. Si selecciona un archivo existente en este paso, será sobreescrito y reemplazado por el volumen creado (los datos se perderán). Podrá cifrar archivos existentes más tarde o moviéndolos al volumen TrueCrypt.
 
  6. En la ventana del asistente de configuración (que estaba corriendo en el fondo) haga click en next.
 
@@ -60,7 +60,7 @@ El manual TrueCrypt sugiere que si usted no está seguro de su elección, utilic
 
  9. Este paso es realmente muy importante, elija una contraseña.
 
- La información mostrada en la ventana del asistente le dirá si su contraseña es buena, debería leela cuidadosamente.
+ La información mostrada en la ventana del asistente le dirá si su contraseña es buena, debería leerla cuidadosamente.
 
  Elija una contraseña fuerte, escríbala en el primer campo de entrada. Luego, repítala en el campo que está por debajo.
 
@@ -80,7 +80,7 @@ El manual TrueCrypt sugiere que si usted no está seguro de su elección, utilic
 
  Luego haga click en Format.
 
- TrueCrypt ahora creará un archivo en la carpeta que usted eligió. Este archivo será un contenedor TrueCrypt, y contendrá un volumen TrueCrypt cifrado. Tomará algún tiempo dependiendo del tamaño del volumen. Cuando finalize debería aparecerr:
+ TrueCrypt ahora creará un archivo en la carpeta que usted eligió. Este archivo será un contenedor TrueCrypt, y contendrá un volumen TrueCrypt cifrado. Tomará algún tiempo dependiendo del tamaño del volumen. Cuando finalice debería aparecer:
 
  ![Using TrueCrypt](using_tc_011.png)
 

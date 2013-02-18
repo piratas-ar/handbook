@@ -7,7 +7,7 @@ Para asegurar los mensajes se utiliza generalmente una técnica llamada *Criptog
 
 En la práctica, eso significa que si Rosa quiere enviarle un mensaje seguro a Heinz, sólo necesita su clave pública para codificar el texto. Al recibir el correo electrónico, Heinz a continuación utiliza su clave privada para descifrar el mensaje. Si quiere responder, tendrá que utilizar la clave pública de Rosa para cifrar la respuesta, y así sucesivamente.
 
-¿Qué software cpuedo usar para cifrar mi correo electrónico?
+¿Qué software puedo usar para cifrar mi correo electrónico?
 ------------------------------------------------------------
 
 La configuración más popular para la criptografía de clave pública es el uso de *Gnu Privacy Guard (GPG)* para crear y administrar claves y un complemento para integrarla con el software de correo electrónico estándar. El uso de GPG le dará la opción de cifrar correo electrónico sensible y decodificar el coreo entrante que ha sido cifrada pero no estará obligado a usarlo todo el tiempo. Años atrás era muy difícil de instalar y configurar, pero avances recientes han hecho que este proceso sea relativamente simple.

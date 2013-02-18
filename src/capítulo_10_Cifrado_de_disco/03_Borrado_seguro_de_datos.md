@@ -74,7 +74,7 @@ Borrado seguro de datos en MacOSX
 
 Siga los pasos siguientes para borrar datos en forma segura en su Mac OSX.
 
- 1. Borre el espacio libre en su disco rígido que contiene todos los datos de los ítems que fueron borrados en forma insegura.
+ 1. Borre el espacio libre en su disco rígido que contiene todos los datos de los ítem que fueron borrados en forma insegura.
 
  2. Asegúrese de que todos los archivos a partir de ahora se eliminen siempre de forma segura.
 
@@ -100,11 +100,11 @@ Empecemos con el primer paso:
 
 Ahora que sus datos han sido eliminados para siempre debe asegurarse de que usted no creará nuevos datos que podrían ser recuperados en una fecha posterior.
 
- 1. Para hacer esto,abra el buscador de preferencias bajo Finder Menu.
+ 1. Para hacer esto,abra el buscador de preferencias bajo el menú Finder.
 
  ![Destroying data](destroy_data_007.jpg)
 
- 2. Vaya e la pestaña advanced y marque 'Empty trash securely'. Esto le asegurará que cuando vacíe su papelera todos los items serán borrados en forma segura.
+ 2. Vaya a la pestaña advanced y marque 'Empty trash securely'. Esto le asegurará que cuando vacíe su papelera todos los items serán borrados en forma segura.
 
  ![Destroying data](destroy_data_008.jpg)
 
@@ -134,11 +134,11 @@ Es posible acceder a estos programas fácilmente agregándolos como una opción 
 
  ![Destroying data](destroy_data_010.png)
 
- 4. Lo que sigue es describir la nueva acción. Puede darle a la acción el nombre que quiera. Colóquelo en el campo "Context label" field. En este ejemplo usamos "Delete file securely"
+ 4. Lo que sigue es describir la nueva acción. Puede darle a la acción el nombre que quiera. Colóquelo en el campo "Context label". En este ejemplo usamos "Delete file securely"
 
  ![Destroying data](destroy_data_011.png)
 
- 5. Haga click en la segunda pestaña ("Command"), aquí especificaremos la acción que queremos realizar. En el campo "Path", tipee "wipe", en tipos de parámetro escriba "-rf %M", asegúrese de hacerlo correctamente, es muy importanta.
+ 5. Haga click en la segunda pestaña ("Command"), aquí especificaremos la acción que queremos realizar. En el campo "Path", tipee "wipe", en tipos de parámetro escriba "-rf %M", asegúrese de hacerlo correctamente, es muy importante.
 
  ![Destroying data](destroy_data_012.png)
 
@@ -156,4 +156,4 @@ Es posible acceder a estos programas fácilmente agregándolos como una opción 
 
  `-rf %M | zenity --info --text "your wipe is underway please be patient. The icon of the file to be wiped will disappear shortly."`
 
- La línea de arriba le indicará que el proceso está en marcha pero el archivo no será eliminado hasta que desaparezca el icono. 
+ La línea de arriba le indicará que el proceso está en marcha pero el archivo no será eliminado hasta que desaparezca el ícono. 

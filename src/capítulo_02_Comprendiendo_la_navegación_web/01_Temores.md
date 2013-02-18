@@ -24,7 +24,7 @@ Las amenazas de las redes sociales al derecho básico de las personas a la priva
 
    * Estudios encargados de clientes, minería de datos, análisis de sentimientos.
 
- * Demandas político/legales ejercidas por el Estado contra la organización en la juridiscción(es) en la cual(es) reside.
+ * Demandas político/legales ejercidas por el Estado contra la organización en las jurisdicciones en las cuales reside.
 
    * Órdenes de los jueces para obtener datos de un usuario particular (sin importar si es nativo o extranjero).
    * Agendas de vigilancia por  aplicación de leyes o socios de la organización.

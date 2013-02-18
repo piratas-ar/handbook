@@ -19,7 +19,7 @@ Si sólo necesita recibir correo electrónico, servicios como Mailinator MintEma
 ¡Sea cuidadoso con lo que dice!
 ------------------------------
 
-El contenido de su mensaje puede revelar su identidad. Si menciona detalles acerca de su vida, su geografía, relaciones sociales o apariencia social, las personas pueden ser capaces de determinar quién envió el mensaje. Cada palabra elegida y el estilo de escritura se pueden usar para descubrir quién está detras de los mensajes anónimos.
+El contenido de su mensaje puede revelar su identidad. Si menciona detalles acerca de su vida, su geografía, relaciones sociales o apariencia social, las personas pueden ser capaces de determinar quién envió el mensaje. Cada palabra elegida y el estilo de escritura se pueden usar para descubrir quién está detrás de los mensajes anónimos.
 
 No debe usar el mismo nombre de usuario para diferentes cuentas o un nombre que esté relacionado con usted tal como un apodo de su niñez o un personaje de su libro favorito. Nunca use una cuenta secreta para una comunicación personal habitual. Si alguien conoce sus secretos, no se comunique con esta persona usando esta dirección de correo electrónico. Si su vida depende de esto, cambie su cuenta secreta tan a menudo como le sea posible entre distintos proveedores.
 

@@ -36,7 +36,7 @@ Descarga e instalación del software
 
  5. El programa analizará su computadora para determinar si ésta puede ejecutarlo.
 
- (Observe que si su Mac fue construída antes del 2006 no tendrá el procesador de Intel requerido para ejecutar este software y la instalación fallará. Por desgracia, está más allá del alcance de este manual tener también en cuenta a estos equipos de más de cinco años de edad)
+ (Observe que si su Mac fue construida antes del 2006 no tendrá el procesador de Intel requerido para ejecutar este software y la instalación fallará. Por desgracia, está más allá del alcance de este manual tener también en cuenta a estos equipos de más de cinco años de edad)
 
  ![GPG Install](gpg_mac_inst_5.jpg)
 
@@ -54,7 +54,7 @@ Como se dijo en la introducción; advertimos en contrario al uso de Apple Mail e
 
 Si la opción no aparece en gris en la instalación, debe funcionar.
 
-Una vez comprobadso todos los componentes que desea instalar, haga clic en "Install" para continuar. El instalador le preguntará por su contraseña y después de escribirla la instalación se ejecutará y completará; ¡Hurra!
+Una vez comprobados todos los componentes que desea instalar, haga clic en "Install" para continuar. El instalador le preguntará por su contraseña y después de escribirla la instalación se ejecutará y completará; ¡Hurra!
 
 ![GPG Install](gpg_mac_inst_8.jpg)
 
