@@ -1,7 +1,7 @@
 Introducción a la versión en español del Manual de CryptoParty
 ==============================================================
 
-La siguiente es la versión en español del CryptoParty Handbook realizada por el [Partido Pirata de Argentina](partidopirata.com.ar). Antes de que siga leyendo, creemos necesario hacer algunas aclaraciones.
+La siguiente es la versión en español del CryptoParty Handbook realizada por el [Partido Pirata de Argentina](http://www.partidopirata.com.ar). Antes de que siga leyendo, creemos necesario hacer algunas aclaraciones.
 
 Hemos respetado fielmente el original traduciendo lo más literalmente posible al texto, algunas veces lo hemos logrado, otras no tanto. Por ejemplo, click puede traducirse por hacer click, hacer clic, cliquear, presionar o pulsar. La redundancia típica de estas palabras muchas veces en el mismo párrafo, incluso en la misma oración, hace que la traducción de la misma no sea uniforme. Por cuestión de estilo, la repetición de palabras en la misma oración no es muy agradable en castellano.
 
