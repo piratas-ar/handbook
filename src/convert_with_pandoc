@@ -1,0 +1,35 @@
+#!/bin/bash
+
+mkdir build
+
+# Copiar todas las imágenes
+find -type f \! -name '*.md' -print0 | xargs -0 cp -t build/
+
+# Concatenar todos los artículos
+cat $(find -name '*.md' | sort) > build/book.md
+
+pushd build
+
+# Convertir!
+pandoc -V documentclass=book \
+       -V fontsize=10pt,a5paper,twoside \
+       -V documentclass=book \
+       -V geometry=hcentering \
+       -V geometry=bindingoffset=1cm \
+       --latex-engine=xelatex \
+       --table-of-contents \
+       -t latex \
+       -o book.tex \
+       book.md
+
+pandoc -V documentclass=book \
+       -V fontsize=10pt,a5paper,twoside \
+       -V documentclass=book \
+       -V geometry=hcentering \
+       -V geometry=bindingoffset=1cm \
+       --latex-engine=xelatex \
+       --table-of-contents \
+       -o book.pdf \
+       book.md
+
+popd
