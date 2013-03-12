@@ -37,25 +37,15 @@ Ingrese una contraseña fuerte (consulte el capítulo acerca de crear buenas con
 
 Usted puede abrir el volumen exterior si quiere, pero en este capítulo lo vamos a saltear y seguir adelante para crear el volumen oculto. Pulse 'Siguiente >' y TrueCrypt le informará el tamaño máximo posible del volumen oculto.
 
-![Hidden volumes](hidden_vol_009.png)
-
 Cuando vea la pantalla mostrada más abajo, presione 'Next >'. Ahora podrá elegir el tipo de cifrado para el volumen oculto. Mantenga el valor por defecto y presione 'Next >'.
-
-![Hidden volumes](hidden_vol_010.png)
 
 Ahora le pedirá que le indique el tamaño del volumen oculto.
 
-![Hidden volumes](hidden_vol_011.png)
-
 Nosotros hemos configurado (como puede ver más abajo) el tamaño máximo en 10MB. Cuando usted configure el suyo presione 'Next >' y podrá crear una contraseña para el volumen oculto.
-
-![Hidden volumes](hidden_vol_012.png)
 
 Cuando cree la contraseña par el volumen oculto asegúrese que sea sustancialmente diferente de la contraseña del volumen exterior. Si alguien puede acceder a su disco y encuentra la contraseña del volumen oculto podría intentar ligeras variaciones de esta contraseña para ver si puede obtener también la contraseña del volumen oculto. Asegúrese que las dos contraseñas no son similares.
 
 Ingrese su contraseña por duplicado y presione 'Next >'. 
-
-![Hidden volumes](hidden_vol_013.png)
 
 Mantenga los valores por defecto y presione 'Next >' entonces verá la misma pantalla que se le presentaba cuando generaba datos aleatorios para TrueCrypt. Cuando le dé la gana, presione 'Format' y verá lo siguiente :
 
