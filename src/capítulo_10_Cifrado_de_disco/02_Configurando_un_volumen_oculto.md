@@ -15,8 +15,6 @@ Las opciones para la mitad de este proceso son casi todas iguales a las usadas p
 
 Presione 'Next >' y continúe a la próxima pantalla. 
 
-![Hidden volumes](hidden_vol_003.png)
-
 Elija la segunda opción 'Hidden TrueCrypt Volume'. Haga click en 'Next >' entonces le pedirán que seleccione un lugar y un nombre para el volumen TrueCrypt *externo*.
 
 ![Hidden volumes](hidden_vol_004.png)
