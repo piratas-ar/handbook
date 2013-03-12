@@ -35,8 +35,6 @@ No se puede configurar el tamaño del volumen exterior más grande que el espaci
 
 Ingrese una contraseña fuerte (consulte el capítulo acerca de crear buenas contraseñas) y presione 'Next >'. Ahora TrueCrypt lo ayudará a crear datos aleatorios para completar el volumen con ellos. Mueva zigzagueando su ratón por toda la pantalla, navegue por internet, haga cualquier cosa que se le ocurra. Cuando crea que TrueCrypt ya está satisfecho, pulse 'Format'. Usted verá una barra de progreso rápida y luego aparecerá la siguiente pantalla:
 
-![Hidden volumes](hidden_vol_008.png)
-
 Usted puede abrir el volumen exterior si quiere, pero en este capítulo lo vamos a saltear y seguir adelante para crear el volumen oculto. Pulse 'Siguiente >' y TrueCrypt le informará el tamaño máximo posible del volumen oculto.
 
 ![Hidden volumes](hidden_vol_009.png)
