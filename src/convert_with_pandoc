@@ -47,11 +47,14 @@ pandoc -V lang=spanish \
        book.md
 
 echo ":: Generando torrent"
-[ ! -f CryptoHandbook.torrent ] &&
+[ ! -f CryptoHandbook.pdf.torrent ] &&
 mktorrent -a udp://tracker.publicbt.com:80 \
           --verbose \
-          -o CryptoHandbook.torrent \
-          CryptoHandbook.pdf \
+          CryptoHandbook.pdf 
+
+[ ! -f CryptoHandbook.epub.torrent ] &&
+mktorrent -a udp://tracker.publicbt.com:80 \
+          --verbose \
           CryptoHandbook.epub
 
 popd
