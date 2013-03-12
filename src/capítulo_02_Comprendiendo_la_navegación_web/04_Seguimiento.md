@@ -43,3 +43,4 @@ Una palabra de advertencia
 --------------------------
 
 Si bloquea a sus rastreadores tendrá un elevado nivel de privacidad cuando navegue por la web. Sin embargo, las agencias de gobierno, los jefes, los hackers y los administradores de red inescrupulosos aún podrán interceptar su tráfico y averiguar qué está viendo. Si quiere asegurar su conexión, necesitará leer el capítulo de cifrado. Su identidad puede ser visible para otras personas en internet. Si quiere proteger completamente su identidad mientras navega, tendrá que dar algunos pasos más hacia el anonimato en línea que se explican en otra sección de este libro.
+

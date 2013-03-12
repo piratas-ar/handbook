@@ -97,3 +97,4 @@ Usted notará que se le pedirá su contraseña maestra o contraseña de inicio d
 
 Se puede acceder a modificar cualquiera de los elementos y también utilizar el Keychain para guardar con seguridad las partes y piezas de texto con las notas. Para ello haga click en las notas y elija 'New secure Note item' desde el menú archivo.
 
+

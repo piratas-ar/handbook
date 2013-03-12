@@ -12,3 +12,4 @@ A new file called "message.asc" will be created. It contains the encrypted messa
 To decrypt a message from the browser window, simply type `gpg` into the command line and hit Enter. Then copy & paste the message to be decrpyted into the commandline window and after being asked for your passphrase hit Ctrl+D (this enters a end-of-file character and prompts gpg to output the cleartext message).
 
 If using the commandline seems too cumbersome to you, you might consider installing a helper application like gpgApplet, kgpg or whatever application ships with your operating system.
+

@@ -28,3 +28,4 @@ Si desea tener acceso a su correo electrónico en su teléfono GPG esta aplicaci
 
 Por favor, note que debido a algunos errores pequeños en K-9 Mail y/o APG, es muy recomendable deshabilitar el correo HTML y utilizar sólo texto sin formato. Los mensajes del tipo HTML no están bien cifrados y a menudo son ilegibles.
  
+

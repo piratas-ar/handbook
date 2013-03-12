@@ -4227,3 +4227,4 @@ WHOIS
 WHOIS (who is) is the aptly named Internet function that allows one to query remote WHOIS databases for domain registration information. By performing a simple WHOIS search you can discover when and by whom a domain was registered, contact information, and more.
 
 A WHOIS search can also reveal the name or network mapped to a numerical IP address
+

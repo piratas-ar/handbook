@@ -97,3 +97,4 @@ Ahora que ha configurado NetworkManager para conectarse a un servicio VPN usando
 
  ![VPN on Ubuntu](vpn_ubuntu_016.png)
 
+

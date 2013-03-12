@@ -35,3 +35,4 @@ Conclusión: el cifrado de mensajes requiere la distribución de las claves púb
 ---------------------------------------------------------------------------------
 
 Todas las personas de una red de amigos o colegas que esperan enviarse unos a otros mensajes cifrados, necesitan distribuir sus claves públicas unos a otros, mientras mantienen sus claves secretas guardadas en un lugar seguro. El software descripto en este capítulo lo ayudará a administrar sus claves.
+

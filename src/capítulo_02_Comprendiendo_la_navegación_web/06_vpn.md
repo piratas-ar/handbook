@@ -21,3 +21,4 @@ Imagínese que en vez de tener que confiar sus datos a todos y cada uno de los i
 Muchos proveedores comerciales de VPN hacen hincapié en el anonimato que proporciona su servicio. Citando la página Ipredator.org (un servicio VPN iniciado por la gente detrás del proyecto Pirate Bay): "Va a cambiar la dirección IP que recibe de su proveedor de Internet para obtener una dirección IP anónima. Usted obtiene una conexión segura/cifrada entre la computadora e Internet ". En efecto, cuando se accede a Internet a través de una conexión VPN parece como si la conexión se originara de la dirección IP de los servidores IPredator.
 
 > "Va a cambiar la dirección IP que recibe de su proveedor de Internet para obtener una dirección IP anónima. Le proporcionamos una conexión segura/cifrada entre la computadora e Internet." ([Https://www.ipredator.se] (https://www.ipredator.se))
+

@@ -82,3 +82,4 @@ Como hacer una CryptoParty
  * Asuma que las agencias de inteligencia enviarán espías a las CryptoParties. Reconozca su presencia al comienzo de su reunión, pídales que compartan sus habilidades criptográficas. Las bromas sobre paranoia a menudo son posibles sin infundir pánico. Póngase sombreros de papel aluminio.
 
  * Sean amables unos con otros...ya puede empezar la CryptoParty.
+

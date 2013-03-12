@@ -92,3 +92,4 @@ Ahora puede salir del instalador. A continuación, eche un vistazo a la imagen d
 
 Ahora KeePass está listo para usar en Mac OS X.
 
+

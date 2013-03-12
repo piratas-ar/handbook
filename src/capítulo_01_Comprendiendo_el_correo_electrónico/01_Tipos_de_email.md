@@ -52,3 +52,4 @@ Notas sobre reenvío de correo electrónico
 -----------------------------------------
 
 Los servicios de reenvío de mensajes proporcionan la ventaja de 'enlazar' una cuenta con otra de la forma que el usuario crea conveniente. Esto por supuesto es más comúnmente utilizado cuando el titular de la cuenta está de vacaciones y quiere que sus mensajes sean derivados desde su cuenta de trabajo a otra que utilizará durante el viaje o que está inaccesible fuera del lugar de trabajo. El riesgo con cualquier servicio de reenvío de correo electrónico externo es el mismo que el riesgo de alojarlo de forma remota en servicios como Gmail, por ejemplo: puede ser copiado y almacenado. Aquí, el cifrado usando un sistema como *GPG* (consulte el Apéndice **GPG**) le asegurará de que si se copia por lo menos no se podrá leer.
+

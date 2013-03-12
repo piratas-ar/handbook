@@ -69,3 +69,4 @@ Nota acerca del almacenamiento de correos electrónicos
 ------------------------------------------------------
 
 Los proveedores de servicios de almacenamiento, envío, descarga y lectura de correos electrónicos no se destacan precisamente por el uso de TLS/SSL. Al almacenarlos, pueden leer y registrar sus mensajes en texto plano. Pueden cumplir con los pedidos de las agencias de seguridad locales que deseen acceder a su cuenta. También pueden analizar sus mensajes para obtener patrones, palabras claves o signos de sus afinidades con determinados grupos políticos, ideologías o marcas comerciales. Por eso es muy importante leer el contrato de licencia de uso del usuario final de su proveedor de correo electrónico y realizar una pequeña investigación acerca de sus afinidades e intereses antes de elegirlo. Todo lo referido anteriormente también se aplica a los destinatarios de sus mensajes.
+

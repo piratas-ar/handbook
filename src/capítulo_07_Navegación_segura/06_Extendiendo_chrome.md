@@ -27,3 +27,4 @@ PrivacyFix
 
 PrivacyFix (beta) le proporciona la vista de tablero de mandos de la configuración de su privacidad en Facebook y Google, así como los encabezados de Do-Not-Track y las cookies de rastreo. Esto
 proporciona enlaces para cambiar rápidamente estos ajustes de privacidad sin excavar a través de muchas páginas de desglose. Se puede instalar desde la página de [Chrome Webstore](https://chrome.google.com/webstore/detail/privacyfix-by-privacychoi/pmejhjjecaldkllonlokhkglbdbkdcni)
+

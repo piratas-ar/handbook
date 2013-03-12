@@ -116,3 +116,4 @@ Si Firefox no se inicia, puede ser que otra instancia del navegador esté interf
  5. Repita los pasos previos para iniciar Tor.
 
 Si Tor aún no funciona después de dos o tres intentos, puede estar bloqueado por su ISP, debería intentar de usar la funcionalidad **bridge** de Tor.
+

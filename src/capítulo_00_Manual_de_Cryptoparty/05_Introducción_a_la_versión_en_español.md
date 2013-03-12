@@ -18,3 +18,4 @@ A determinadas palabras las hemos traducido por respeto al idioma y a sus expres
 Bueno, usted decide. Nuestro consejo es que use software libre, no open source (y menos software privativo). A partir de aquí, la traducción completa del texto original en inglés.
 
 
+

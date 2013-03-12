@@ -140,3 +140,4 @@ Podrá abrir un archivo almacenado en un volumen TrueCrypt, el cual será descif
 ----------------------
 
 Haga click en el disco con el botón derecho y seleccione unmount. Esto sucederá automáticamente cuando apague su computadora pero no cuando se encuentre en modo suspendido.
+

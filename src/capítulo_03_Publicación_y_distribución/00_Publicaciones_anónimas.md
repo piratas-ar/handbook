@@ -36,3 +36,4 @@ Distintos no
 **No espere a lo último.** Si usted golpea la olla y se convierte en una sensación del blogging (como *Belle de Jour*, la estudiante británica de doctorado que se convirtió en una sensación y vendió un libro y reflexionó en dos programas de televisión acerca de su doble vida como prostituta de lujo) habrá una legión de periodistas, inspectores fiscales y fanáticos obsesivos que escudriñen todos sus movimientos. Usted es solamente una persona: ellos la atraparán.
 
 **No se detenga.** Si se da cuenta que ha cometido errores, aunque nadie lo haya atrapado, cierre todas sus cuentas, descubra las pistas y comience una identidad totalmente nueva. Internet tiene memoria infinita: un solo golpe y quedará fuera de combate.
+

@@ -40,3 +40,4 @@ Problemas
 ---------
 
 Si surgen problemas con el uso de Firefox, consulte [https://support.mozilla.com/kb/Firefox+will+not+start](https://support.mozilla.com/kb/Firefox+will+not+start)
+

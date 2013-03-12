@@ -37,3 +37,4 @@ En 1996, John Perry Barlow, cofundador de la [Electronic Frontier Foundation (EF
 
  * Aquellos que buscan detener la propagación de la criptografía se asemejan a los clérigos del siglo 15 que trataban de prohibir la imprenta, temerosos de que su monopolio del conocimiento fuera socavado.
  
+

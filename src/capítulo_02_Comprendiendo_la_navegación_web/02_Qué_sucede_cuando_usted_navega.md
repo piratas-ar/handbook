@@ -55,3 +55,4 @@ Incluso entre el ordenador y el router, los paquetes pueden ser fácilmente inte
  3. Si el intercambio se produce bajo una conexión HTTPS, el proceso es mucho más complicado y también mucho más seguro, hallará más información acerca de esto en el fascinante capítulo llamado Criptografía. ^
  4. This Tech Bubble Is Different ([http://www.businessweek.com/magazine/content/11_17/b4225060960537.htm](http://www.businessweek.com/magazine/content/11_17/b4225060960537.htm)), Ashlee Vance (Businessweek magazine) ^
  
+

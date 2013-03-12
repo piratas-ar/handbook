@@ -10,3 +10,4 @@ Confiamos en que haya seguido nuestro consejo y haya elegido un proveedor de VPN
 Una vez que sepa que su IP externa se ha cambiado a la IP de su servidor VPN, usted puede estar seguro de que su comunicación está cifrada - la conexión VPN no se establecería si existieran errores.
 
 
+

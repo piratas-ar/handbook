@@ -90,3 +90,4 @@ Salga de la pantalla anterior con los valores por defecto y presione 'Next >', a
 Puede dejar los valores predeterminados. Si desea instalar TrueCrypt sólo para usted, entonces no se recomienda seleccionar la opción "Instalar para todos los usuarios". Sin embargo, si va a instalar esto en su propia máquina y nadie más usa la computadora, entonces esto no es necesario. Puede que también desee considerar la instalación de TrueCrypt en una carpeta distinta de la predeterminada. En este caso, haga clic en "Examinar" y elija otra ubicación. Cuando haya terminado, haga clic en "Instalar" y el proceso continuará:
 
 Cuando se complete la instalación aparecerá una confirmación de se ha realizado correctamente. Cierre esta ventana y haga clic en "Finalizar". Ahora continúe con el capítulo sobre el uso de TrueCrypt.
+

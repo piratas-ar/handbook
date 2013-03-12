@@ -70,3 +70,4 @@ El manual de TrueCrypt al cual se refiere no es este, es el que se encuentra en 
 Presione 'OK' y cierre TrueCrypt. Ahora puede montar el volumen como se describió en el capítulo anterior.
 
  
+
