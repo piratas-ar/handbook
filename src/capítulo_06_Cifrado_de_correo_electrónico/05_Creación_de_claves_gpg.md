@@ -79,3 +79,4 @@ Felicitaciones, ahora tiene un cliente de correo electrónico de PGP totalmente 
  ![GPG Keys](gpg_keys_11.png)
 
 Felicitaciones, ya tiene su cliente de correos PGP totalmente configurado. En el próximo capítulo explicaremos cómo firmar mensajes y cómo cifrarlos. Thunderbird puede ayudarle con muchas de estas tareas automáticamente.
+

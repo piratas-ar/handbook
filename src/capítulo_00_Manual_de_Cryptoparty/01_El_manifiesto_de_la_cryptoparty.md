@@ -35,4 +35,10 @@ En 1996, John Perry Barlow, cofundador de la [Electronic Frontier Foundation (EF
 
 * El código es discurso: es un lenguaje humano creado. Prohibir, censurar o bloquear la criptografía para que la gente no tenga acceso a ella es privar a los seres humanos de un derecho humano, la libertad de expresión.
 
+<<<<<<< HEAD
 * Aquellos que buscan detener la propagación de la criptografía se asemejan a los clérigos del siglo 15 que trataban de prohibir la imprenta, temerosos de que su monopolio del conocimiento fuera socavado. 
+=======
+ * Aquellos que buscan detener la propagación de la criptografía se asemejan a los clérigos del siglo 15 que trataban de prohibir la imprenta, temerosos de que su monopolio del conocimiento fuera socavado.
+ 
+
+>>>>>>> 37ac77e96de3c85588eed239b388e97a2d5ec920

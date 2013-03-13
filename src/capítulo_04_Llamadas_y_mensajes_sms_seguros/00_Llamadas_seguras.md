@@ -11,3 +11,4 @@ Al momento de redactar estas líneas los usuarios de iPhone tienen disponibles p
 
 Los usuarios de Android deberían consultar la sección **Cifrado de llamadas** para poder realizar llamadas VoIP seguras.
 
+

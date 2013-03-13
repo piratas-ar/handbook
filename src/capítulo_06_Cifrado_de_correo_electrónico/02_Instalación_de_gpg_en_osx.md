@@ -74,3 +74,4 @@ Instalación de Enigmail
 **¡Tenga en cuenta que deberá reiniciar Thunderbird para usar la funcionalidad de esta extensión!**
 
 Ahora que ha descargado e instalado exitosamente Enigmail y PGP pase al capítulo que trata acerca de cómo configurar el software para su uso.
+

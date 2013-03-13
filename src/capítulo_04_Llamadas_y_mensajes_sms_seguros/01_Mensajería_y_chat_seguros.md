@@ -6,3 +6,4 @@ Los SMS son mensajes cortos enviados entre teléfonos móviles. El texto se env�
 Aunque XMPP utiliza TLS/SSL (ver glosario TLS/SSL) para evitar la interceptación de terceros, su proveedor pueden leer sus mensajes y entregarlos a otras entidades. La mensajería *Off-the-Record (OTR)* sin embargo le permite cifrar sus mensajes. Los mensajes que envía no tienen firmas digitales que pueden ser verificados por un tercero, en consecuencia, la identidad de su autor es *posteriormente repudiable*. Cualquier persona puede falsificar mensajes después de una conversación para que se vean como si procedieran de usted. Sin embargo, *durante* una conversación, el interlocutor tiene la seguridad de la *integridad* de los mensajes - lo que ve es auténtico e inmodificable.
 
 Vea la sección **Cifrado en mensajería instantánea**
+

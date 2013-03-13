@@ -42,3 +42,4 @@ Ahora usted puede hacer una llamada. La primera vez que se conecte a una persona
 ![OSTN](ostn_3.png)
 
 Usted ha establecido una conexión de voz segura que no puede ser interceptada. Tenga en cuenta que usted o el teléfono de la otra parte podría estar grabando la conversación.
+

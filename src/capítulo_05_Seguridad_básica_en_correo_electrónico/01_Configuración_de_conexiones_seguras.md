@@ -72,3 +72,4 @@ De regreso a las pantallas de configuración
 -------------------------------------------
 
 En cualquier momento usted puede reconfigurar sus cuentas de correo yendo a la barra de menú de Thunderbird y pulsando **Edit | Account Settings** (GNU/Linux), **Tools | Account Settings** (Windows y Mac OS X).
+

@@ -30,3 +30,4 @@ Instalación en Mac OS X
 Felicitaciones, ¡ya está preparado para usar Firefox!
 
 ![Mac OS X Firefox Install](ff_mac_inst_8.png)
+

@@ -23,3 +23,4 @@ Seleccione Settings, haga click en "Manual proxy configuration" e ingrese la inf
 ![Firefox Proxy Settings](ff_proxy_2.png)
 
 Después de hacer click en OK, su configuración será grabada y su navegador web se conectará automáticamente a través del proxy en todas sus conexiones futuras. Si obtiene un mensaje de error tal como, "The proxy server is refusing connections" o "Unable to find the proxy server", existe algún problema con su configuración del proxy. En este caso, repita los pasos anteriores y seleccione "No proxy" en la última pantalla para desactivar el proxy.
+

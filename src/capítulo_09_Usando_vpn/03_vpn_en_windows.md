@@ -70,3 +70,4 @@ a
  ![VPN on Windows](vpn_windows_14.jpg)
 
  16. ¡Online! No se olvide de comprobar que su VPN esté trabajando correctamente. 
+

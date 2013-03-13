@@ -100,3 +100,4 @@ Necesita primero abrir la ventana de configuración de cuentas (Account Settings
  7. Seleccione la casilla de verificación denominada 'Move new junk messages to' si desea mover el correo no deseado a una carpeta especificada. A continuación, seleccione la carpeta de destino para su proveedor de correo electrónico o una carpeta local en el equipo.
  8. Seleccione la opción 'Automatically delete junk mail other 14 days' en la casilla de verificación para que Thunderbird regularmente elimine los mensajes de correo basura. Para cambiar el período de tiempo para este proceso, introduzca un número diferente (en días) en el cuadro de texto.
  9. Haga clic en 'OK' para guardar los cambios.
+

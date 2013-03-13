@@ -60,3 +60,4 @@ Para empezar a instalar Enigmail, lleve a cabo los siguientes pasos:
  5. Después de algún tiempo, la instalación se completará y la siguiente ventana debe aparecer. Por favor, haga click en el botón 'Restart Thunderbird'.
 
  ![Enigmail Install](enigmail_inst_3.png)
+

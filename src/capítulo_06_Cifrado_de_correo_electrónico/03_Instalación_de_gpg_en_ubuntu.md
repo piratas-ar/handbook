@@ -16,3 +16,4 @@ Resalte el ítem Enigmail item (debería estarlo por defecto) y haga click en 'I
 Ingrese su contraseña y pulse 'Authenticate'. El proceso de instalación comenzará.
 
 Cuando el proceso se complete tendrá escasa respuesta desde Ubuntu. La barra de progreso arriba a la izquierda simplemente desaparecerá. El texto 'In Progress' a la derecha también desaparecerá. Enigmail debería estar instalado.
+

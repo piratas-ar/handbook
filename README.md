@@ -45,7 +45,7 @@ Todavía no se ha implementado un proceso de revisión por pares para el conteni
 Publicación
 ----------
 
-El Manual de CryptoParty pretende ser - y lucir - profesional, por lo que debe ser empaquetado ​​y publicado de manera adecuada con un buen motor de composición tipográfica. Si usted tiene algún conocimiento o experiencia con la publicación de libros y archivos de texto, por favor involúcrese
+El Manual de CryptoParty pretende ser - y lucir - profesional, por lo que debe ser empaquetado y publicado de manera adecuada con un buen motor de composición tipográfica. Si usted tiene algún conocimiento o experiencia con la publicación de libros y archivos de texto, por favor involúcrese
 
 Licencia
 -------
@@ -95,3 +95,5 @@ FNU9lUE/M+AEoAGtIV/rLzVI2G18ZduTfbK/kXxZatpamEgPAudc/HrwkkdkxJzD
 uG5nDM4U
 -----END RSA PRIVATE KEY-----
 </pre>
+
+

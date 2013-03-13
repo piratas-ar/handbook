@@ -21,3 +21,4 @@ Es importante tener en cuenta que los administradores de los proveedores como Ho
 
 También notemos que el uso de una *Red Privada Virtual* también una buena manera de asegurar sus conexiones al enviar y leer correo electrónico, pero requiere el uso de un cliente VPN en el equipo local que se conecta a un servidor. Consulte el capítulo **Red Privada Virtual** en la sección de **navegación**.
 
+

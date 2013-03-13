@@ -19,3 +19,4 @@ Utilizar software de código cerrado en un contexto de red no es sólo ser parte
 
 Nótese bien que existe una opinión más cínica del software de código abierto, que señala que, dado que nadie es pagado a tiempo completo para llevar a cabo una constante revisión y prueba de regresión, los últimos retoques de los programadores inexpertos o maliciosos podrían provocar importantes fallas de seguridad que no son detectadas por largos períodos de tiempo, dejándolo vulnerable a los hackers, criminales, agencias de inteligencia,etc. - por ejemplo, el problema (ahora resuelto) del generador de números aleatorios predecibles de Debian GNU/Linux que dio lugar a la creación de muchas claves criptográficas débiles -.
 
+

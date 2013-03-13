@@ -65,3 +65,4 @@ Los manuales usados en la segunda mitad de este libro se basan en 2 libros impre
 El contenido del Manual de CryptoParty está cubierto por la licencia [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
 
 © Todos los capítulos de los contribuyentes a menos que se indique lo contrario a continuación.
+

@@ -157,3 +157,4 @@ Es posible acceder a estos programas fácilmente agregándolos como una opción 
  `-rf %M | zenity --info --text "your wipe is underway please be patient. The icon of the file to be wiped will disappear shortly."`
 
  La línea de arriba le indicará que el proceso está en marcha pero el archivo no será eliminado hasta que desaparezca el ícono. 
+

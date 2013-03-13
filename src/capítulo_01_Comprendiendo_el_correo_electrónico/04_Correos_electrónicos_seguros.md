@@ -16,3 +16,4 @@ Consulte la sección **Cifrado de correo electrónico** para trabajar con GPG en
 
 Si utiliza un servicio de *webmail*, es más difícil cifrar el correo electrónico. Puede utilizar un programa GPG en su computadora para cifrar el texto utilizando su clave pública o puede utilizar un complemento, como el Lock The Text ([Http://lockthetext.sourceforge.net/] (http://lockthetext.sourceforge.net/)). Si desea mantener los mensajes privados, le sugerimos que utilice un
 programa de correo electrónico dedicado como Thunderbird en lugar de webmail.
+

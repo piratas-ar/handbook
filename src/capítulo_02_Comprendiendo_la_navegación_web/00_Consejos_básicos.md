@@ -56,3 +56,4 @@ Su derecho a permanecer en el anonimato
 Más allá del deseo de minimizar las fugas de privacidad para los proveedores de servicios específicos, usted debe considerar ocultar la dirección de Internet desde la cual se conecta habitualmente (vea el capítulo **Qué sucede cuando navega**). El deseo de lograr este anonimato impulsó la creación del *Proyecto Tor*.
 
 *Tor* usa una red de nodos en constante evolución para enrutar la conexión a un sitio de una manera que no se puede rastrear de nuevo hasta usted. Es un medio muy robusto para asegurar que su dirección de Internet no se puede registrar en un servidor remoto. Vea el capítulo **Anonimato** para obtener más información acerca de cómo funciona y cómo empezar con Tor.
+

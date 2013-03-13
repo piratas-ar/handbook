@@ -33,7 +33,7 @@ cat > $DIR/main.tex <<EOF
 EOF
 
 
-for d in chapter*; do
+for d in capítulo*; do
 	if [ ! -d $DIR/$d ] ; then
 		mkdir $DIR/$d
 	fi

@@ -48,3 +48,4 @@ Algunas aplicaciones, como programas de chat o de correo electrónico puede pedi
 Si la información de inicio de sesión se envía a través de una conexión o canal inseguro, podría caer en las manos equivocadas. Consulte los capítulos sobre la navegación segura para más información.
 
 
+
