@@ -81,7 +81,7 @@ Usted puede encontrar el programa de llavero en la carpeta Utilities, que está 
 
 ![Password Manager](mng_14.png)
 
-Cuando lo abra, verá que su 'Login' de keychain está desbloqueado y verá todos los elementos contenidos en el mismo en la parte inferior derecha de la ventana.
+Cuando lo abra, verá que su 'Login' de Keychain está desbloqueado y verá todos los elementos contenidos en el mismo en la parte inferior derecha de la ventana.
 
 (Nota: la ventana aquí está vacía porque sería engañoso para el propósito de este manual hacer una captura de pantalla de mis claves personales y compartirlas con ustedes)
 

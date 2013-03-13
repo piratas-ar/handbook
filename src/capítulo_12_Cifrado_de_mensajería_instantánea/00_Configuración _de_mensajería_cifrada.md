@@ -85,4 +85,3 @@ Archivos de registros de chat
 Algunos de los clientes de chat antes mencionados, por ejemplo, Adium, almacenan texto plano, sin cifrar los registros de chat, a menudo de forma predeterminada, incluso aún cuando está instalado el plugin de "seguridad/privacidad" OTR.
 
 Si usted está tomando precauciones OTR para proteger sus sesiones de chat de fisgones a través en el cable o inalámbricos, debería comprobar que se ha apagado manualmente el Inicio de sesión de Chat, o asegurarse de que el registros de chat destinados deliberadamente para ser guardados son creados en un disco o volumen cifrado, en caso de que su equipo se pierda, sea robado o decomisado. También vale la pena preguntarle a la persona con la que está conversando si está registrando inadvertidamente el contenido de la charla con su propio software cliente de chat.
-

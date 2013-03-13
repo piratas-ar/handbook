@@ -42,7 +42,7 @@ En las situaciones en las que usted cree que debería estar preocupado por el tr
 
  * Compruebe si su cliente soporta listas negras de pares. 
  * Compruebe si las definiciones de las listas negras de pares se actualizan diariamente. 
- * Asegúrese que su cliente soporte la totalidad de los protocolos más recientes - DHT, PEX and enlaces Magnet. 
+ * Asegúrese que su cliente soporte la totalidad de los protocolos más recientes - DHT, PEX y enlaces Magnet. 
  * Elija un cliente torrent que soporte cifrado de pares y habilítelo. 
  * Actualice o cambie su cliente torrent si algo de lo mencionado más arriba no está disponible. 
  * Use una conexión VPN para ocultarle su tráfico BitTorrent a su ISP. Asegúrese que su proveedor de VPN permite el tráfico P2P. Vea más consejos y recomendaciones en el capítulo Uso de VPN. 

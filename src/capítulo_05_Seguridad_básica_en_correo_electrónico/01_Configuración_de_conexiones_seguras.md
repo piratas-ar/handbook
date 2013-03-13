@@ -12,7 +12,7 @@ Aquí es donde **PGP** (Pretty Good Privacy) entra, lo cual se describe en el ca
 El primer paso para asegurar al correo electrónico es tener una conexión segura entre su sistema y los servidores de correo. En este capítulo se describe cómo configurar su cuenta de correo electrónico de la manera correcta.
 
 Requisitos de configuración
---------------------------
+---------------------------
 
 Al configurar una cuenta, Thunderbird intenta determinar los parámetros de conexión (de la cuenta de correo electrónico y los datos de la cuenta que usted proporciona) con su proveedor de correo electrónico. Aunque Thunderbird conoce los parámetros de conexión para muchos proveedores de correo electrónico, no los conoce a todos. Si los parámetros no son conocidos por Thunderbird, usted tendrá que proporcionar la siguiente información para configurar su cuenta:
 

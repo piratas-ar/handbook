@@ -3,7 +3,7 @@ Acerca de este libro
 
 El Manual de CryptoParty nació como una sugerencia de Marta Peirano ([http://petitemedia.es](http://petitemedia.es)) y ([http://booksprints.net](http://booksprints.net)) después de realizar la primera CryptoParty, el 29 de agosto del 2012. Julian Oliver ([http://julianoliver.com](http://julianoliver.com)) y Danja Vasiliev ([http://k0a1a.net](http://k0a1a.net)), coorganizadores de la CryptoParty de Berlín junto con Marta estaban muy entusiasmados con la idea, viendo la necesidad de contar con un libro práctico de fácil comprensión para usar en las próximas CryptoParties. Asher Wolf, creador del movimiento CryptoParty, fue invitado a participar con el incipiente proyecto.
 
-Este libro se escribió en los 3 primeros días de octubre del 2012 en Studio Weise7, Berlin, rodeado por buena comida y un pequeño océano de café. Estuvieron involucradas en su creación unas 20 personas, algunas más que otras, unas cerca, y otras más lejos.
+Este libro se escribió en los 3 primeros días de octubre del 2012 en Studio Weise7, Berlín, rodeado por buena comida y un pequeño océano de café. Estuvieron involucradas en su creación unas 20 personas, algunas más que otras, unas cerca, y otras más lejos.
 
 La metodología usada para escribir, BookSprint ([http://booksprints.net](http://booksprints.net)), trata de minimizar los problemas que acarrea el proceso de publicación de las páginas creadas. La discusión cara a cara y la asignación dinámica de tareas fueron una parte muy importante de la realización del trabajo, ¡como en toda CryptoParty!
 
@@ -47,6 +47,10 @@ Asistentes:
  * Travis Tueffel
 
 Imagen de portada por Emile Denichaud.
+
+Traducción al español:
+
+ * gnu_tesla@riseup.net 
 
 Otros manuales incluidos: 
 

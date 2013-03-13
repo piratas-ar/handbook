@@ -17,7 +17,7 @@ Actuar anónimamente es también de gran ayuda para aquellos con una gran necesi
 Proxy
 -----
 
-> "Un **anonymizer** o un **proxy anónimo** es una herramienta que ayuda a hacer que la actividad en Internet no pueda ser rastreada. Es una computadora que es un proxy [servidor] que actúa de intermediaria y como escudo de la privacidad entre un cliente y el resto de internet. Accede a Internet en representavión del usuario, protegiendo su información personal al ocultarla información que pudiera identificar a la computadora del cliente." ([http://en.wikipedia.org/wiki/Anonymizer](http://en.wikipedia.org/wiki/Anonymizer))
+> "Un **anonymizer** o un **proxy anónimo** es una herramienta que ayuda a hacer que la actividad en Internet no pueda ser rastreada. Es una computadora que es un proxy [servidor] que actúa de intermediaria y como escudo de la privacidad entre un cliente y el resto de internet. Accede a Internet en representación del usuario, protegiendo su información personal al ocultarla información que pudiera identificar a la computadora del cliente." ([http://en.wikipedia.org/wiki/Anonymizer](http://en.wikipedia.org/wiki/Anonymizer))
 
 El objetivo principal detrás del uso de un proxy es ocultar o cambiar la dirección de Internet (dirección IP) asignada a la computadora del usuario. Puede haber varias razones por las que necesitan hacerlo, por ejemplo:
 
@@ -36,7 +36,7 @@ Tor
 ---
 
 > - Tor impide que alguien conozca su localización o aprenda acerca de sus hábitos de navegación.
-> - Tor funciona con navegadores web, clienyes de mensajería instantánea, sesiones remotas, etc.
+> - Tor funciona con navegadores web, clientes de mensajería instantánea, sesiones remotas, etc.
 > - Tor es software libre y está disponible para Windows, Mac, GNU/Linux, Unix y Android. ([https://www.torproject.org](https://www.torproject.org))
 
 Tor es un sistema destinado a permitir el anonimato en línea, compuesto por un software cliente y una red de servidores que pueden ocultar información sobre la ubicación de los usuarios y otros factores que pudieran identificarlos. Imagine un mensaje que está envuelto en varias capas de protección: cada servidor tiene que quitarle una capa, con lo que inmediatamente elimina la información del remitente del servidor anterior.

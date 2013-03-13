@@ -1,5 +1,5 @@
 Por qué es tan importante la privacidad
-======================================
+=======================================
 
 La privacidad es un derecho humano fundamental. Está reconocida en muchos países como fundamental para la dignidad individual y para los valores sociales de libertad de asociación y de expresión. En pocas palabras, la privacidad es la frontera que separa nuestra intimidad de la intrusión de la sociedad.
 

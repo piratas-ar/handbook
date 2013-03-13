@@ -38,7 +38,7 @@ La instalación de Thunderbird involucra dos pasos: primero, descargar el softwa
 
  Pulse el botón **Next** para comenzar la instalación. Si desea detenerla, haga click en el botón **Cancel**.
 
- 5. Lo próximo que verá es la pantalla de tipo de configuración, **Setup Type**. Para la mayoría de los usuarios la opción estándar es buena aunque no suficiente para todas sus necesidades. La opción de configuración personalizada se recomienda exclusivamente para usuarios con experiencia. Note que Thunderbird se instalará él mismo como su aplicación de correo por defecto. Si no desea que esto ocurra, desmarque la casillad de verificación etiquetada como **Use Thunderbird as my default mail application**.
+ 5. Lo próximo que verá es la pantalla de tipo de configuración, **Setup Type**. Para la mayoría de los usuarios la opción estándar es buena aunque no suficiente para todas sus necesidades. La opción de configuración personalizada se recomienda exclusivamente para usuarios con experiencia. Note que Thunderbird se instalará él mismo como su aplicación de correo por defecto. Si no desea que esto ocurra, desmarque la casilla de verificación etiquetada como **Use Thunderbird as my default mail application**.
 
  ![Thunderbird Install](thunderbird_inst_4.jpg)
 

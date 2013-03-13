@@ -56,7 +56,7 @@ Mientras esté registrado en cualquier servicio debería asegurarse de usar cifr
 Compruebe que el servicio que está usando (ya sea correo electrónico, redes sociales o banca en línea) es compatible con sesiones TLS/SSL viendo la existencia de `https://` al comienzo de la URL. Si no es así, asegúrese de activarlo en todas las configuraciones proporcionadas por el proveedor del servicio. Para entender mejor cómo funciona la navegación web, consulte el capítulo **¿Qué sucede cuando navego en Internet?**
 
 ¿Puedo meterme en problemas por usar Google con cosas raras?
------------------------------------------------------------
+------------------------------------------------------------
 
 Google y otras compañías de búsqueda pueden cumplir con las órdenes judiciales dirigidas a determinadas personas. Un sitio web con un campo personalizado de búsqueda de Google para encontrar contenido en su sitio puede ser obligado a registrar y suministrar todas las consultas de búsqueda a la justicia local. Académicos, artistas e investigadores están particularmente en riesgo de ser mal entendidos, ya que suponen motivaciones donde sólo existen intereses aparentes.
 

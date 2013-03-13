@@ -33,7 +33,7 @@ Configuración
 
  ![VPN on Mac OS X](vpn_osx_06.jpg)
 
- 7. En la ventana emergente deberá especificar el tipo de conexión. En este caso elija una interfaz VPN interface con L2TP sobre IPSec. Es el sistema más común. No olvide darle a la conexión un nombre bonito.
+ 7. En la ventana emergente deberá especificar el tipo de conexión. En este caso elija una interfaz VPN con L2TP sobre IPSec. Es el sistema más común. No olvide darle a la conexión un nombre bonito.
 
  ![VPN on Mac OS X](vpn_osx_07.jpg)
 

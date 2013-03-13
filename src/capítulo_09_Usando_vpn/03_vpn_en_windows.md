@@ -53,11 +53,11 @@ a
 
  ![VPN on Windows](vpn_windows_10.jpg)
 
- 12. En la pestaña de seguridad puede especificar el tipo de VPN, normalmenete L2TP/IPSec. No use PPTP que posee varias vulnerabilidades de seguridad. Para L2TP/IPSec eche un vistazo a Advanced settings.
+ 12. En la pestaña de seguridad puede especificar el tipo de VPN, normalmente L2TP/IPSec. No use PPTP que posee varias vulnerabilidades de seguridad. Para L2TP/IPSec eche un vistazo a Advanced settings.
 
  ![VPN on Windows](vpn_windows_11.jpg)
 
- 13. En la ventana de Advanced Settings, puede especificar si está usando una clave pre-compartida o un certificado. Esto depende de su proveedor de VPN. Si ha recibido una clave pre compartida, seleccione esta opción y compl+etela con este valor. Presione ok, y volverá a la pantalla anterior. Pulse OK nuevamente.
+ 13. En la ventana de Advanced Settings, puede especificar si está usando una clave pre-compartida o un certificado. Esto depende de su proveedor de VPN. Si ha recibido una clave pre compartida, seleccione esta opción y complétela con este valor. Presione OK, y volverá a la pantalla anterior. Pulse OK nuevamente.
 
  ![VPN on Windows](vpn_windows_12.jpg)
 

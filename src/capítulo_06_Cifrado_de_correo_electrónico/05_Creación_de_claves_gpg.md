@@ -35,7 +35,7 @@ Enigmail presenta un agradable asistente que le ayudará a crear su par de clave
 
  ! [GPG Keys] (gpg_keys_8.png)
 
- 9. Si ha decidido generar un certificado de revocación, el asistente le pedirá la ubicación del archivo debe ser guardado. El diálogo tendrá un aspecto diferente dependiendo del sistema operativo que utilice. Es una buena idea cambiar el nombre del archivo a algo sensato como my_revocation_certificate. Haga clic en "Guardar" cuando usted haya decidido sobre un lugar.
+ 9. Si ha decidido generar un certificado de revocación, el asistente le pedirá la ubicación del archivo debe ser guardado. El diálogo tendrá un aspecto diferente dependiendo del sistema operativo que utilice. Es una buena idea cambiar el nombre del archivo a algo sensato como *my_revocation_certificate*. Haga clic en "Guardar" cuando usted haya decidido sobre un lugar.
 
  ! [GPG Keys] (gpg_keys_9.png)
 
@@ -48,7 +48,6 @@ Enigmail presenta un agradable asistente que le ayudará a crear su par de clave
  ! [GPG Keys] (gpg_keys_11.png)
 
 Felicitaciones, ahora tiene un cliente de correo electrónico de PGP totalmente configurado. En el próximo capítulo vamos a explicar cómo manejar sus llaves, mensajes de muestra y hacer la encriptación. Thunderbird puede ayudarle a hacer un montón de estas cosas automáticamente. 
-
 
 
  5. En la pantalla siguiente, seleccione una de sus cuentas de correo. En el cuadro de texto 'Passphrase' debe introducir una contraseña. Se trata de una nueva *contraseña* que se utiliza para proteger su clave privada. Es **muy importante** recordar esta contraseña, ya que no podrá leer sus propios mensajes de correo electrónico cifrados en caso de olvidarla. Escriba una contraseña **fuerte**, lo ideal es 20 caracteres o más. Por favor, vea el capítulo sobre las contraseñas para obtener ayuda acerca de como crear contraseñas únicas, largas y fáciles de recordar. Una vez que haya seleccionado su cuenta y haya creado una contraseña, haga clic en el botón "Next".

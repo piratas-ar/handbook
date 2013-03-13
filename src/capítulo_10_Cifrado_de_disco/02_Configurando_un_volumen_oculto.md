@@ -3,7 +3,7 @@ Configuración de un volumen oculto
 
 Un volumen TrueCrypt oculto existe en el espacio libre de un volumen TrueCrypt típico. Suponiendo que accedamos al 'volumen externo', es (casi) imposible determinar si hay un volumen oculto dentro de él. Esto es así porque TrueCrypt *siempre* llena el espacio vacío de un volumen cifrado con datos aleatorios. Por eso un volumen oculto se ve igual que un volumen vacío.
 
-Para crear y utilizar un volumen oculto se necesitan dos contraseñas - una para cada uno de los volúmenes, el exterior y el interior (oculto). Cuando monte (abra) el volumen puede utilizar cualquiera de ellos y esto determinará cuál de los dos estára abierto. Si desea abrir sólo el volumen oculto utilice una contraseña, y si usted desea tener acceso sólo al volumen cifrado no oculta deberá utilizar la otra contraseña.
+Para crear y utilizar un volumen oculto se necesitan dos contraseñas - una para cada uno de los volúmenes, el exterior y el interior (oculto). Cuando monte (abra) el volumen puede utilizar cualquiera de ellos y esto determinará cuál de los dos estará abierto. Si desea abrir sólo el volumen oculto utilice una contraseña, y si usted desea tener acceso sólo al volumen cifrado no oculta deberá utilizar la otra contraseña.
 
 Para crear un volumen abra TrueCrypt oculto y pulse el botón 'Crear volumen': 
 
