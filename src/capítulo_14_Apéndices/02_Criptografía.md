@@ -100,10 +100,3 @@ El objetivo principal y la habilidad del cifrado consiste en aplicar los método
 Es importante destacar que cuando hablamos de comunicación, estamos hablando acerca de la confianza. Tradicionalmente, la criptografía se ocupaba de los escenarios hipotéticos, donde el desafío era cómo hacer que 'Bob' pudiera hablar con 'Alice' de una manera privada y segura.
 
 Nuestras vidas están ahora fuertemente entrelazadas con las computadoras e Internet. De modo que los límites entre Bob, Alice y el "otro" (Eva, Oscar, el Gran Hermano, su jefe, el ex-novio o el gobierno) son mucho más borrosos. Teniendo en cuenta el gran avance en el procesamiento de datos con computadoras, para 'nosotros', para que Bob y Alice puedan confiar en el sistema, tenemos que saber con quién están hablando demasiado, necesitamos saber quién está escuchando y lo más importante quién tiene el potencial para espiar . Lo que resulta importante es cómo navegar por esta complejidad y sentir que mantenemos el control y la seguridad, para poder participar y comunicarnos de una manera confiable, respetando nuestras libertades individuales y nuestra privacidad.
-<<<<<<< HEAD
-=======
-
-
-
-
->>>>>>> 37ac77e96de3c85588eed239b388e97a2d5ec920

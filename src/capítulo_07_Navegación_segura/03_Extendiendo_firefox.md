@@ -58,7 +58,7 @@ Haga click en el botón Preferences.
 Se mostrará una lista de todos los sitios web soportados donde las reglas de redirección de HTTPS pueden aplicarse. Si tiene problemas con una regla específica de redirección, puede desmarcarla aquí. En este caso, HTTPS Everywhere no modificará su conexión con el sitio específico.
 
 Uso
------
+---
 
 Una vez habilitado y configurado, HTTPS Everywhere es muy fácil y transparente para usar. Tipee una URL como HTTP insegura (por ejemplo, [http://www.google.com](http://www.google.com)).
 

@@ -24,7 +24,7 @@ Unos pocos ejemplos:
 Las frases son fáciles de recordar, incluso si son 50 caracteres y contiene caracteres en mayúsculas, en minúsculas, símbolos y números.
 
 Minimizar los daños
------------------
+-------------------
 
 Es importante minimizar el daño si uno de sus contraseñas está siempre en peligro. Utilice diferentes contraseñas para diferentes sitios web o cuentas, de esa manera que si una se ve comprometida, los demás no lo estarán. Cambie sus contraseñas de vez en cuando, especialmente si hay cuentas que consideran sensibles. De esta manera usted puede bloquear el acceso a un atacante que puede haber aprendido su antigua contraseña.
 
@@ -36,7 +36,7 @@ Recordar un montón de contraseñas diferentes puede ser difícil. Una solución
 Para guardar contraseñas de sitios web sólo, otra opción es el administrador de contraseñas integrado del navegador Firefox. ¡Asegúrese de establecer una contraseña maestra, de lo contrario esto es muy inseguro!
 
 La protección física
--------------------
+--------------------
 
 Cuando se utiliza un equipo público, como en una biblioteca, un cibercafé o cualquier equipo que no es de su propiedad, existen varios peligros. Usando el método de la vigilancia "sobre el hombro" alguien, posiblemente con una cámara, puede ver sus acciones y puede ver la cuenta con la que inicia sesión y la contraseña que escribe. Una amenaza menos evidente son los programas de software o dispositivos de hardware llamados "keyloggers", que registran lo que escribe. Ellos pueden estar ocultos dentro de una computadora o un teclado y no verse fácilmente. No utilice computadoras públicas para iniciar sesión en sus cuentas privadas, tales como el correo electrónico. Si lo hace, cambie sus contraseñas tan pronto como vuelva a una computadora que posee y en la cual confíe.
 

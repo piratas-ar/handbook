@@ -1,5 +1,5 @@
 Configuración de proxy
-=====================
+======================
 
 Un servidor proxy le permite a usted alcanzar un sitio web u otro lugar que esté bloqueado por su país o por su ISP. Existen muchas clases diferentes de proxies, que incluyen:
 

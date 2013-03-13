@@ -29,6 +29,7 @@ Hay disponibles en varios sitios web comparaciones entre distintos servicios VPN
 
  
 Configuración de su cliente VPN
+-------------------------------
 
  > "OpenVPN [..] es una solución completa de software VPN SSL que integra capacidades de servidor OpenVPN, capacidades de administración simplificada, interfaz de usuario OpenVPN Connect, y paquetes de software cliente de OpenVPN que se adaptan a GNU/Linux, OSX, Windows y entornos. El servidor OpenVPN Access es compatible con una amplia gama de configuraciones, incluyendo acceso remoto seguro y granular a la red interna y a los recursos privados en la red y a las aplicaciones en la nube con un control de acceso riguroso." ([http://openvpn.net/index.php/access-server/overview.html](http://openvpn.net/index.php/access-server/overview.html))
 
