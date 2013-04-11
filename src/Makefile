@@ -17,7 +17,7 @@ latex-pdf: ${TEX_DIR}/main.tex
 	pdflatex --output-dir=${TEX_DIR} ${TEX_DIR}/main.tex
 
 ${BOOK_DIR}/book.md: ${BUILD_DIR}
-	cat capítulo*/*.md > ${BOOK_DIR}/book.md
+	cat capitulo*/*.md > ${BOOK_DIR}/book.md
 
 combined: ${BOOK_DIR}/book.md
 
