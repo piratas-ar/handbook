@@ -21,11 +21,11 @@ cat > $DIR/main.tex <<EOF
 \usepackage[spanish,activeacute]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[pdftex,bookmarks,colorlinks]{hyperref}
-%\oddsidemargin 0in
-%\textwidth 6.75in
-%\topmargin 0.2in
-%\headheight 0.2in
-%\textheight 8.5in
+\oddsidemargin 0in
+\textwidth 6.75in
+\topmargin 0.2in
+\headheight 0.2in
+\textheight 8.5in
 
 \begin{document}
 

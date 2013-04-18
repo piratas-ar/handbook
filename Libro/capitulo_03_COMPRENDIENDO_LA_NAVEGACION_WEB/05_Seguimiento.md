@@ -17,9 +17,128 @@ Cada vez que carga una página web, el software del servidor en el sitio web gen
 
 La manera más simple de evitar el seguimiento es borrar las cookies en su navegador.
 
+En **Firefox**:
+
+ 1. Pulse **Firefox menu**. 
+ 
+ 2. Pulse **Options**.
+ 
+ 3. Pulse **Privacy**.
+ 
+ 4. Pulse **Clear your recent history**.
+ 
+    ![Borrado de cookies en Firefox](firefox_delete_cookies_01.png)
+ 
+ 5. Asegúrese de configurar **Time range to clear** como **Everything**.
+ 
+ 6. Tilde **Cookies**.
+ 
+    ![Borrado de cookies en Firefox](firefox_delete_cookies_02.png)
+ 
+ 7. Haga click en **Clear now**.
+ 
+En **Chrome**:
+ 
+ 1. Pulse **Chrome menu**.
+ 
+ 2. Pulse **Tools**.
+ 
+ 3. Pulse **Clear browsing data**.
+ 
+ 4. Asegúrese de configurar **Obliterate the following items from** como **The beginning of time**.
+ 
+ 5. Tilde **Delete cookies and other site and plug-in data**.
+ 
+ 6. Pulse **Clear browsing data**.
+ 
+ ![Borrado de cookies en Chrome](chrome_delete_cookies_02.png)
+
+En **Internet Explorer**: 
+
+ 1. Pulse el botón **Tools** (en forma de engranaje).
+
+ 2. Pulse **Safety**.
+
+ 3. Pulse **Delete Browsing History**.
+
+ 4. Tilde **Cookies**.
+
+ 5. Pulse **Delete**.
+ 
+ ![Borrado de cookies e Internet Explorer](ie_delete_cookies_02.png)
+
+
 La limitación de esta aproximación es que usted recibirá nuevas cookies tan pronto como vuelva al sitio o cuando vaya a otras páginas con componentes de seguimiento. Otras desventajas son que usted perderá todas sus sesiones iniciadas para todas sus pestañas abiertas, forzándolo a tipear sus nombres de usuario y contraseña nuevamente. Una opción más conveniente, soportada por los navegadores actuales es navegación privada o modo incógnito. Esto abre una ventana de un navegador temporario que no grabará la historia de las páginas visitadas, contraseñas, archivos descargados o cookies. Después de cerrar la ventana de navegación privada, toda la información será borrada.
 
+En **Firefox**:
+
+ 1. Pulse **Firefox menu**.
+
+ 2. Pulse **Start Private Browsing**.
+ 
+ ![Navegación privada en Firefox](firefox_private_browsing_01.png)
+
+ 3. Si se lo solicita, pulse **Start Private Browsing** nuevamente.
+ 
+ ![Navegación privada en Firefox](firefox_private_browsing_02.png)
+
+ 4. El botón **Firefox menu** aparece en color púrpura, mostrando que se está navegando en forma privada.
+ 
+ ![Navegación privada en Firefox](firefox_private_browsing_03.png)
+
+En **Chrome**:
+
+ 1. Pulse **Chrome menu**.
+
+ 2. Pulse **New incognito window**.
+ 
+    ![Navegación privada en Chrome](chrome_private_browsing_01.png)
+ 
+ 3. El **ícono espía** en la parte superior izquierda de la ventana del navegador muestra que se está navegando en forma privada.
+ 
+    ![Navegación privada en Chrome](chrome_private_browsing_02.png)
+ 
+En **Internet Explorer**: 
+
+ 1. Pulse en el menú **Tools**, en forma de engranaje.
+
+ 2. Pulse **Safety**.
+
+ 3. Pulse **InPrivate Browsing**.
+ 
+    ![Navegación privada en IE](ie_private_browsing_01.png) 
+
+ 4. El logo **InPrivate** aparecerá en la parte superior izquierda de la ventana del navegador: se está navegando en forma privada.
+ 
+    ![Navegación privada en IE](ie_private_browsing_02.png)
+
+
 Esta solución también tiene sus limitaciones. Nosotros no podemos grabar marcadores, registrar contraseñas, o sacar ventajas de la conveniencia ofrecida por navegadores modernos. Afortunadamente, existen distintos plugins especialmente diseñados para direccionar los problemas del seguimiento. El más extenso, en términos de características y flexibilidad, es Ghostery. El plugin le permite bloquear servicios individuales o por categorías que registran usuarios.
+
+ 1. En Firefox, pulse el menú **Firefox** y elija **Add-ons**.
+ 
+    ![Ghostery](ghostery01.png)
+ 
+ 2. En la casilla **Search**, tipee "ghostery", luego pulse el ícono **Search** o presione **Enter**.
+ 
+    ![Ghostery](ghostery02.png)
+
+ 3. Busque Ghostery en la lista de Add-ons, y pulse **Install**.
+ 
+    ![Ghostery](ghostery03.png)
+
+ 4. Reinicie su navegador pulsando **Restart Now**.
+ 
+    ![Ghostery](ghostery04.png)
+
+ 5. Pulse **Ghostery toolbar** y seleccione **Options**. Recorre las opciones y prueba diversos ajustes para Ghostery, si así lo desea.
+ 
+    ![Ghostery](ghostery05.png)
+
+ 6. Visite una página web y observe sus rastreadores.
+ 
+    ![Ghostery](ghostery06.png)
+
 
 Otra opción es instalar un plugin bloqueador de publicidad como AdBlockPlus. Este plugin automáticamente bloqueará muchos de las cookies de seguimiento enviadas por empresas de publicidad pero no los utilizados por Google, Facebook y otras empresas de análisis web.
 
@@ -28,7 +147,7 @@ Otra opción es instalar un plugin bloqueador de publicidad como AdBlockPlus. Es
 
 La forma más fácil de ver quién lo está rastreando es usar el plugin Ghostery. Hay un pequeño ícono en la esquina superior derecha o inferior derecha de la ventana del navegador que le dirá qué servicios lo están siguiendo a usted en un sitio web específico.
  
-{Sugerencia: Añada el complemento Do Not Track de Abine.com  Sugerimos utilizar tanto Ghostery como DNT, porque a veces bloquean cookies distintas. Abine también tiene Privacy Suite, recientemente desarrollado que puede darle un proxy telefónico y de correo electrónico, similar a 10 Minute Mail o Guerrilla Mail para rellenar correos electrónicos para formularios.} 
+(Sugerencia: Añada el complemento Do Not Track de Abine.com  Sugerimos utilizar tanto Ghostery como DNT, porque a veces bloquean cookies distintas. Abine también tiene Privacy Suite, recientemente desarrollado que puede darle un proxy telefónico y de correo electrónico, similar a 10 Minute Mail o Guerrilla Mail para rellenar correos electrónicos para formularios.)
 
 
 Una palabra de advertencia
